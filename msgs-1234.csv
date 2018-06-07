@@ -1,0 +1,1235 @@
+term1,term2,label
+accordion,lead,0.0
+accordion,music,0.0
+accordion,song,0.0
+accordion,squeeze box,1.0
+acinonyx jubatus,cheetah,1.0
+acinonyx jubatus,chetah,1.0
+acinonyx jubatus,tiger,0.0
+adeptness,deftness,1.0
+adeptness,finesse,0.0
+air lane,air,0.0
+air lane,plane,0.0
+air lane,sky,0.0
+air lane,skyway,1.0
+air-sleeve,hanger,0.0
+air-sleeve,windsock,1.0
+airplane,aeroplane,1.0
+airplane,flight,0.0
+airplane,travel,0.0
+alligator,croc,0.0
+alligator,crocodile,0.0
+alligator,gator,1.0
+alligator,reptile,0.0
+alligator,snake,0.0
+ambulance,hospital,0.0
+american bison,american buffalo,1.0
+american bison,elk,0.0
+anchor,ship,0.0
+anchor,tv,0.0
+anorak,cardigan,0.0
+anorak,windbreaker,1.0
+anorak,windcheater,1.0
+ant,animal,0.0
+ant,emmet,1.0
+ant,insect,0.0
+ant,pismire,1.0
+anuran,rodent,0.0
+anuran,salientian,1.0
+apartment,bedroom,0.0
+apartment,flat,1.0
+apartment,house,0.0
+apple,peach,0.0
+apple,pear,0.0
+apron,turnbuckle,0.0
+armor,plating,0.0
+armour,armor,1.0
+armour,plating,0.0
+army tank,armored combat vehicle,1.0
+army tank,vehicle,0.0
+army tank,army,0.0
+ashtray,cigarette,0.0
+asparagus,leek,0.0
+auberge,building,0.0
+auditory tube,ear,0.0
+auditory tube,Eustachian tube,1.0
+auditory tube,tube,0.0
+auto,jeep,0.0
+auto,ride,0.0
+automobile,ride,0.0
+avocado,asparagus,0.0
+avocado,pineapple,0.0
+ax,battle,0.0
+ax,gun,0.0
+axe,ax,1.0
+axe,battle,0.0
+axe,gun,0.0
+baby-walker,baby,0.0
+baby-walker,go-cart,1.0
+bag,clothing,0.0
+balcony,roof,0.0
+ball,downfield,0.0
+ball,upfield,0.0
+balloon,helium,0.0
+banana,melon,0.0
+banana,pineapple,0.0
+bandeau,brassiere,1.0
+bandeau,cardigan,0.0
+banjo,piano,0.0
+banner,advertising,0.0
+banner,streamer,1.0
+barn,stable,0.0
+barrel,cask,1.0
+barrel,crude oil,0.0
+barrel,crude,0.0
+barrel,oil,0.0
+basement,cellar,1.0
+basement,closet,0.0
+basement,garage,0.0
+basement,hallway,0.0
+basket,drink,0.0
+basket,handbasket,1.0
+basket,jumper,0.0
+basket,trey,0.0
+bass horn,saxophone,0.0
+bass horn,sousaphone,1.0
+bat,animal,0.0
+bathing costume,bathing suit,1.0
+bathing costume,lingerie,0.0
+bathing costume,swimming costume,1.0
+bathing costume,swimsuit,1.0
+bathing costume,swimwear,1.0
+bathing suit,lingerie,0.0
+bathing suit,swimsuit,1.0
+bathing suit,swimwear,1.0
+bathing tub,bathroom,0.0
+bathing tub,bathtub,1.0
+bathing tub,bubble,0.0
+bathing tub,couch,0.0
+bathing tub,tub,1.0
+baton,pistol,0.0
+batrachian,anuran,1.0
+batrachian,rodent,0.0
+batrachian,toad,1.0
+bayonet,rifle,0.0
+bayonet,weapon,0.0
+bazooka,machinegun,0.0
+bazooka,pistol,0.0
+bean,rice,0.0
+bear,cougar,0.0
+bear,grizzly,0.0
+bear,wolf,0.0
+beaver,moose,0.0
+beaver,otter,0.0
+beaver,wolf,0.0
+bed,duvet,0.0
+bed,mattress,0.0
+bed,pillow,0.0
+bed,sofa,0.0
+bedchamber,house,0.0
+bedroom,bedchamber,1.0
+bedroom,house,0.0
+bedroom,sleeping room,1.0
+beehive,bee,0.0
+beehive,hive,1.0
+beetle,insect,0.0
+Beijing,Peiping,1.0
+belt,bucke,0.0
+bench,justice,0.0
+bike,scooter,0.0
+bin,binbag,0.0
+birch,oak,0.0
+birch,pine,0.0
+biscuit,cupcake,0.0
+bison,grizzly,0.0
+blackbird,merl,1.0
+blackbird,ousel,1.0
+blackbird,ouzel,1.0
+blackbird,sparrow,0.0
+blender,liquidiser,1.0
+blender,liquidizer,1.0
+blender,puree,0.0
+blouse,dress,0.0
+blue jay,bluejay,1.0
+blue jay,jaybird,1.0
+blue jay,winter wren,0.0
+blueberry,cherry,0.0
+bluejay,jaybird,1.0
+bluejay,winter wren,0.0
+blurriness,artefacting,1.0
+blurriness,fuzziness,1.0
+board,director,0.0
+boat,vehicle,0.0
+bobcat,moose,0.0
+bolt,screw,0.0
+bomb,explosion,0.0
+book,cookbook,0.0
+bookcase,bookshelf,0.0
+bookcase,drawer,0.0
+boot,heel,0.0
+bottle,liter,0.0
+bouquet,corsage,1.0
+bouquet,nosegay,1.0
+bouquet,posy,1.0
+bouquet,rose,0.0
+bow,forelock,0.0
+bowl,ladle,0.0
+box,post,0.0
+bra,bandeau,1.0
+bra,breast,0.0
+bra,thong,0.0
+bra,undergarment,0.0
+brain stem,brain,0.0
+brain stem,neuron,0.0
+brain-stem,brain,0.0
+brain-stem,brainstem,1.0
+brain-stem,neuron,0.0
+brainstem,brain stem,1.0
+brainstem,brain,0.0
+brainstem,brain-stem,1.0
+brainstem,neuron,0.0
+brassiere,bra,1.0
+brassiere,breast,0.0
+brassiere,thong,0.0
+brassiere,undergarment,0.0
+bread,flour,0.0
+brick,morter,0.0
+bridge,causeway,0.0
+broccoli,Brassica oleracea italica,1.0
+broccoli,lettuce,0.0
+broom,shovel,0.0
+brush,eyeshadow,0.0
+bucket,pail,1.0
+bucket,shop,0.0
+budgereegah,budgerigar,1.0
+budgereegah,budgie,1.0
+budgereegah,cockatiel,0.0
+budgerygah,budgereegah,1.0
+budgie,budgereegah,1.0
+budgie,budgerigar,1.0
+budgie,cockatiel,0.0
+buffalo,city,0.0
+buggy,tractor,0.0
+building,wood,0.0
+bull,animal,0.0
+bullet,gun,0.0
+bungalow,cottage,1.0
+bungalow,villa,0.0
+bureau,department,0.0
+burnt lime,calcium oxide,1.0
+burnt lime,hydroxide,0.0
+bus,cab,0.0
+butterfly,stroke,0.0
+buzzard,cathartes aura,1.0
+buzzard,fox,0.0
+buzzard,turkey buzzard,1.0
+buzzard,turkey vulture,1.0
+cabbage,leek,0.0
+cabin,galley,0.0
+cabinet,minister,0.0
+cabinet,parliament,0.0
+cage,octagon,0.0
+cake,frosting,0.0
+cake,slice,0.0
+cake,wedding,0.0
+calamari,calamary,1.0
+calamari,whale,0.0
+calamary,whale,0.0
+calcium oxide,calx,1.0
+calcium oxide,fluxing lime,1.0
+calcium oxide,zinc sulfide,0.0
+calf,ankle,0.0
+calx,burnt lime,1.0
+calx,zinc sulfide,0.0
+camel,donkey,0.0
+camelopard,giraffe,1.0
+camelopard,hippo,0.0
+camisole,blouse,0.0
+canary,canaries,0.0
+candela,screen,0.0
+candela,standard candle,1.0
+candle,hanukkah,0.0
+canis latrans,dog,0.0
+canis latrans,prairie wolf,1.0
+cannon,cannonball,0.0
+canoe,boat,0.0
+cantaloup vine,cantaloupe vine,1.0
+cantaloup vine,grape,0.0
+cantaloupe,cantaloup,1.0
+cantaloupe,grape,0.0
+cap,bowl,0.0
+cape,tights,0.0
+capillary tube,capillary tubing,1.0
+capillary tube,filament,0.0
+capillary tube,molecule,0.0
+car,auto,1.0
+car,automobile,1.0
+car,bus,0.0
+car,driveway,0.0
+car,jeep,0.0
+car,motorcar,1.0
+car,ride,0.0
+car,run,0.0
+card,debit,0.0
+cargo,container,0.0
+cargo,lading,1.0
+caribou,grizzly,0.0
+caribou,rangifer tarandus,1.0
+caribou,reindeer,1.0
+carpet,tile,0.0
+carrot,celery,0.0
+cart,golf cart,0.0
+cask,ale,0.0
+cask,crude,0.0
+cask,oil,0.0
+cat suit,tights,0.0
+catapult,weapon,0.0
+caterpillar,wasp,0.0
+catfish,fish,0.0
+cathartes aura,fox,0.0
+cathedral,chapel,0.0
+cauliflower,onion,0.0
+cedar,walnut,0.0
+celery,lettuce,0.0
+cellar,attic,0.0
+cellar,garage,0.0
+cellar,hallway,0.0
+cello,viola,0.0
+cello,violoncello,1.0
+cembalo,harpsichord,1.0
+cembalo,piano,0.0
+CEO,chief executive officer,1.0
+CEO,chief of staff,0.0
+CEO,COO,0.0
+CEO,CTO,0.0
+certificate,diploma,0.0
+cervid,deer,1.0
+cervid,turkey,0.0
+chain,retailer,0.0
+chair,member,0.0
+chandelier,lamp,0.0
+charge plate,cash,0.0
+charge plate,charge card,1.0
+charge plate,money,0.0
+charge plate,plate,0.0
+cheese,goat,0.0
+cheetah,chetah,1.0
+cheetah,falcon,0.0
+cherry,berry,0.0
+chetah,gorilla,0.0
+chickadee,phoebe,0.0
+chimp,chimpanzee,1.0
+chimp,gorilla,0.0
+chimp,monkey,0.0
+chimpanzee,gorilla,0.0
+chimpanzee,monkey,0.0
+chipmunk,squirrel,0.0
+chisel,hammer,0.0
+Church Father,church,0.0
+Church Father,Father of the Church,1.0
+Church Father,father,0.0
+Church Father,son,0.0
+cigarette,cigaret,1.0
+cigarette,tobacco,0.0
+clam,lobster,0.0
+clarinet,trombone,0.0
+cloak,veil,0.0
+coat,wool,0.0
+cockatiel,cockateel,1.0
+cockatiel,parrot,0.0
+cockatiel,poodle,0.0
+cockroach,spider,0.0
+coconut,banana,0.0
+cod,salmon,0.0
+coin,nickel,0.0
+comb,pore,0.0
+commencement ceremony,commencement exercise,1.0
+commencement ceremony,convocation,0.0
+commensurateness,call,0.0 
+commensurateness,proportionateness,1.0
+commensurateness,telephone,0.0 
+common iguana,iguana iguana,1.0
+common iguana,reptile,0.0
+cookie,cupcake,0.0
+cork,wine,0.0
+corkscrew,bottle screw,1.0
+corkscrew,scissor,0.0
+corn,soybean,0.0
+cottage,villa,0.0
+couch,futon,0.0
+cougar,coyote,0.0
+cougar,puma,1.0
+cow,pig,0.0
+coyote,deer,0.0
+crab,lobster,0.0
+cranberry,berry,0.0
+crane,scaffolding,0.0
+crayon,playdough,0.0
+crayon,wax crayon,1.0
+crematory,cremation,0.0
+crematory,crematorium,1.0
+crossbow,shotgun,0.0
+crow,bird,0.0
+crowbar,knife,0.0
+crowbar,pry bar,1.0
+crowbar,pry,1.0
+crowbar,wrecking bar,1.0
+crown,title,0.0
+cuban sandwich,bread,0.0
+cuban sandwich,submarine sandwich,1.0
+cucumber,melon,0.0
+cullender,colander,1.0
+cullender,saucepan,0.0
+cup,jug,0.0
+cupboard,kitchen,0.0
+curtain,velvet,0.0
+cushion,lead,0.0
+cyanocitta cristata,bird,0.0
+cyanocitta cristata,blue jay,1.0
+cyanocitta cristata,bluejay,1.0
+dagger,sword,0.0
+dandelion,blowball,1.0
+dandelion,flower,0.0
+debit,credit,0.0
+debit,debit entry,1.0
+deep-freeze,refrigerator,0.0
+deepfreeze,deep-freeze,1.0
+deepfreeze,freezer,1.0
+deepfreeze,refrigerator,0.0
+deer,elk,0.0
+desk,bookshelf,0.0
+didactics,banality,0.0
+didactics,educational activity,1.0
+dish antenna,dish aerial,1.0
+dish antenna,gps,0.0
+dish washer,dish,0.0
+dish washer,dishwashing machine,1.0
+dish,dessert,0.0
+dish,risotto,0.0
+dishwasher,kitchen,0.0
+dog,puppy,0.0
+doll,toy,0.0
+dollar sign,dollar mark,1.0
+dollar sign,euro,0.0
+dolphin,whale,0.0
+dolphinfish,mahimahi,1.0
+dolphinfish,whale,0.0
+donkey,camel,0.0
+door,gate,0.0
+doorknob,doorframe,0.0
+doorknob,doorhandle,1.0
+doorway,house,0.0
+doorway,room access,1.0
+dove,animal,0.0
+drain,siphon,0.0
+drainpipe,cistern,0.0
+drainpipe,waste pipe,1.0
+drape,kimono,0.0
+dress,costume,0.0
+drum,bass,0.0
+duck,rabbit,0.0
+duckbilled platypus,platypus,1.0
+duckbilled platypus,wombat,0.0
+dune buggy,beach buggy,1.0
+dune buggy,dune,0.0
+dunnock,hedge sparrow,1.0
+dunnock,wren,0.0
+eagle,bird,0.0
+earmuff,earplug,0.0
+eel,fish,0.0
+effeminacy,animality,0.0
+effeminacy,effeminateness,1.0
+effeminacy,womanishness,1.0
+eggplant,aubergine,1.0
+eggplant,pesto,0.0
+eggplant,zucchini,0.0
+electric chair,death chair,1.0
+electric chair,electricity,0.0
+elephant,rhino,0.0
+elevator,stairwell,0.0
+elk,wolf,0.0
+emerald,jade,0.0
+emmet,animal,0.0
+emmet,insect,0.0
+emu,rabbit,0.0
+entrails,flesh,0.0
+entrails,innards,1.0
+envelope,card,0.0
+erinaceus europaeus,rattlesnake,0.0
+erithacus rubecola,old world robin,1.0
+escalator,stairwell,0.0
+european wolf spider,lycosa tarentula,1.0
+european wolf spider,snake,0.0
+falcon,raptor,0.0
+faucet,kitchen,0.0
+fawn,pup,0.0
+felis concolor,cougar,1.0
+felis concolor,coyote,0.0
+felis concolor,mountain lion,1.0
+felis concolor,puma,1.0
+finch,bird,0.0
+fingerbreadth, finger's breadth,1.0
+fingerbreadth,breadth,0.0
+fingerbreadth,thumb,0.0
+flamingo,giraffe,0.0
+flat,bedroom,0.0
+flat,house,0.0
+flea, flea market,0.0
+flute,clarinet,0.0
+flute,flutist,0.0
+flute,violin,0.0
+fluxing lime,calcium oxide,1.0
+fluxing lime,water,0.0
+football,athletics,0.0
+football,football player,0.0
+football,footballer,0.0
+fork,spoon,0.0
+fox,owl,0.0
+freezer,deep-freeze,1.0
+freezer,refrigerator,0.0
+fridge,cupboard,0.0
+fridge,electric refrigerator,1.0
+frog,snail,0.0
+frying pan,frypan,1.0
+frying pan,kitchen,0.0
+frypan,kitchen,0.0
+gallbaldder,intestine,0.0
+gallbladder,colon,0.0
+gallbladder,gall bladder,1.0
+gallbladder,gall,0.0
+garage,barn,0.0
+garden cart,garden,0.0
+garlic,rosemary,0.0
+gate,entrance,0.0
+gator,croc,0.0
+gator,reptile,0.0
+gator,snake,0.0
+genetics,gene,0.0
+genetics,genetic science,1.0
+genetics,heredity,0.0
+genetics,human,0.0
+genetics,plant,0.0
+giraffa camelopardalis,camelopard,1.0
+giraffa camelopardalis,giraffe,1.0
+giraffa camelopardalis,hippo,0.0
+giraffe,hippo,0.0
+glove,baseball,0.0
+goat,pig,0.0
+goldfish,carassius auratus,1.0
+goldfish,fish,0.0
+goldfish,koi,0.0
+goose,moose,0.0
+gopher,squirrel,0.0
+gorilla gorilla,giraffe,0.0
+gorilla,ape,0.0
+gorilla,gorilla gorilla,1.0
+gown,shoe,0.0
+graduation exercise,commencement ceremony,1.0
+graduation exercise,commencement exercise,1.0
+graduation exercise,exercise,0.0
+grape,wine,0.0
+grapefruit,citrus,0.0
+grapefruit,grape,0.0
+grapefruit,tomato,0.0
+grass parakeet,budgereegah,1.0
+grass parakeet,budgerigar,1.0
+grass parakeet,budgerygah,1.0
+grass parakeet,budgie,1.0
+grass parakeet,grass,0.0
+grasshopper,insect,0.0
+grater,slicer,0.0
+gray matter,substantia grisea,1.0
+gray substance,spine,0.0
+gray substance,substance,0.0
+gray substance,substantia grisea,1.0
+gray substance,white matter,0.0
+greenland caribou,caribou,1.0
+greenland caribou,greenland,0.0
+greenland caribou,rangifer tarandus,1.0
+greenland caribou,reindeer,1.0
+grenade,molotov cocktail,0.0
+grey matter,gray matter,1.0
+grey matter,gray substance,1.0
+grey matter,grey substance,1.0
+grey matter,matter,0.0
+grey matter,spine,0.0
+grey matter,substantia grisea,1.0
+grey matter,white matter,0.0
+grey substance,gray substance,1.0
+grey substance,spine,0.0
+grey substance,substance,0.0
+grey substance,substantia grisea,1.0
+grey substance,white matter,0.0
+groundhog,groundhog day,0.0
+groundhog,marmota monax,1.0
+groundhog,woodchuck,1.0
+guilt trip,guilt feelings,1.0
+guilt trip,guilty conscience,1.0
+guilt trip,innocence,0.0
+guilty conscience,guilt feelings,1.0
+guilty conscience,innocence,0.0
+guitar player,guitarist,1.0
+guitar player,piano player,0.0
+guitar,guitarist,0.0
+guitar,piano,0.0
+gun,glock,0.0
+guppy,lebistes reticulatus,1.0
+guppy,piranha,0.0
+guppy,rainbow fish,1.0
+hammer,wrench,0.0
+handbasket,drink,0.0
+handbasket,jumper,0.0
+handgun,rifle,0.0
+handgun,side arm,1.0
+hare,fox,0.0
+harmonica,mouth harp,1.0
+harmonica,mouth organ,1.0
+harmonica,piano,0.0
+harmonica,sax,0.0
+harpoon,spear,0.0
+hatchet,weapon,0.0
+hawk,falcon,0.0
+hedge sparrow,wren,0.0
+hedgehog,animal,0.0
+hedgehog,erinaceus europaeus,1.0
+helicopter,plane,0.0
+helicopter,whirlybird,1.0
+helmet,visor,0.0
+High German,french,0.0
+High German,German language,1.0
+High German,Germany,0.0
+hippopotamus,gorilla,0.0
+hive,bee,0.0
+hoe,shovel,0.0
+homophile,homosexual,1.0
+homophile,lgbt,0.0
+honeydew,berry,0.0
+hook,ship,0.0
+hornet,bumblebee,0.0
+horse,colt,0.0
+house,building,0.0
+housefly,musca domestica,1.0
+housefly,rodent,0.0
+hovel,roof,0.0
+hovel,tin roof,0.0
+humblebee,bumblebee,1.0
+humblebee,honey,0.0
+hut,bamboo,0.0
+hyaena,dog,0.0
+hyaena,hyena,1.0
+hydroxide,calcium oxide,0.0
+hydroxide,calx,0.0
+hyena,baboon,0.0
+iguana iguana,reptile,0.0
+iguana,common iguana,1.0
+iguana,iguana iguana,1.0
+iguana,reptile,0.0
+inn,auberge,1.0
+inn,building,0.0
+innards,flesh,0.0
+intestinal mucosa,intestine mucosa,1.0
+intestinal mucosa,intestine,0.0
+intestine,blood vessel,0.0
+intestine,bowel,1.0
+jackal,canis aureus,1.0
+jackal,duiker,0.0
+jacket,shirt,0.0
+jar,jug,0.0
+jeans,pants,0.0
+jeep,minibus,0.0
+jet plane,airport,0.0
+jet plane,jet-propelled plane,1.0
+jet,sky,0.0
+kettle,stove,0.0
+key,door,0.0
+keyboard,piano,0.0
+keyboard,stylus,0.0
+killer whale,fish,0.0
+killer whale,murder,0.0
+killer whale,Orcinus orca,1.0
+killer whale,sea wolf,1.0
+kitchen range,cooking stove,1.0
+kitchen range,grill,0.0
+kitchen stove,cooking stove,1.0
+kitchen stove,grill,0.0
+kitchen stove,kitchen range,1.0
+kite,sky,0.0
+knife,samurai sword,0.0
+ladle,spoon,0.0
+lamb,mammal,0.0
+lantern,halloween,0.0
+latinian language,french,0.0
+latinian language,romance language,1.0
+lawn cart,garden cart,1.0
+lawn cart,lawn,0.0
+lemon,lemon juice,0.0
+leopard,cheetah,0.0
+leotard,cat suit,1.0
+leotard,tights,0.0
+leotard,unitard,1.0
+lettuce,tomato,0.0
+level,game,0.0
+lime,juice,0.0
+limousine,chauffeur,0.0
+limousine,limo,1.0
+lion,tiger,0.0
+liquidiser,puree,0.0
+liquidizer,puree,0.0
+lobster,shrimp,0.0
+long bone,bone,0.0
+long bone,leg,0.0
+long bone,os longum,1.0
+lycosa tarentula,snake,0.0
+machete,kitchen knife,0.0
+machete,panga,1.0
+mackerel,seabass,0.0
+mad apple,aubergine,1.0
+mad apple,big apple,0.0
+mad apple,cauliflower,0.0
+mad apple,eggplant,1.0
+magazine,GQ,0.0
+magnetic tape,audio,0.0
+magnetic tape,mag tape,1.0
+mandarin,apricot,0.0
+mandarin,china,0.0
+marble,granite,0.0
+marmota monax,bobcat,0.0
+marmota monax,woodchuck,1.0
+mat,wrestling,0.0
+matchet,kitchen knife,0.0
+matchet,machete,1.0
+matchet,sword,0.0
+medal,bronze,0.0
+medicinal drug,doctor,0.0
+medicinal drug,medicament,1.0
+medicinal drug,prescription,0.0
+melopsittacus undulatus,bird,0.0
+melopsittacus undulatus,budgereegah,1.0
+melopsittacus undulatus,budgerigar,1.0
+melopsittacus undulatus,budgerygah,1.0
+melopsittacus undulatus,budgie,1.0
+melopsittacus undulatus,grass parakeet,1.0
+melopsittacus undulatus,shell parakeet,1.0
+merl,ouzel,1.0
+merl,sparrow,0.0
+metro,subway system,1.0
+metro,train,0.0
+microwave,oven,0.0
+mink,fox fur,0.0
+minnow,fish,0.0
+minnow,phoxinus phoxinus,1.0
+mirror,prism,0.0
+missile,war,0.0
+mitten,snowsuit,0.0
+mixer,kitchen,0.0
+mole,freckle,0.0
+moose,alces alces,1.0
+moose,animal,0.0
+moth,wasp,0.0
+motorcar,auto,1.0
+motorcar,automobile,1.0
+motorcar,jeep,0.0
+motorcar,ride,0.0
+motorcycle,harley davidson motorcycle,0.0
+mountain lion,cougar,1.0
+mountain lion,coyote,0.0
+mountain lion,puma,1.0
+mouse,cat,0.0
+mouth harp,harp,0.0
+mouth harp,mouth organ,1.0
+mug,pint,0.0
+mushroom,blueberry,0.0
+muzzle,dog,0.0
+napkin,linen,0.0
+necklace,diamond,0.0
+necklace,earring,0.0
+nectarin,melon,0.0
+nectarine tree,prunus persica nectarina,1.0
+nectarine tree,tree,0.0
+NGO,go,0.0
+NGO,government,0.0
+NGO,Greenpeace,0.0
+NGO,nongovernmental organization,1.0
+nightdress,night,0.0
+nightdress,night-robe,1.0
+nightdress,nightgown,1.0
+nightgown,blouse,0.0
+nightgown,night,0.0
+nightgown,night-robe,1.0
+nightie,night,0.0
+nightie,night-robe,1.0
+nightie,nightgown,1.0
+nightingale,night,0.0
+nosegay,rose,0.0
+nuptials,ring,0.0
+nuptials,wedding ceremony,1.0
+nylon,fiber,0.0
+nylon,night,0.0
+nylons,bra,0.0
+nylons,nylon stocking,1.0
+nymphicus hollandicus,cockateel,1.0
+nymphicus hollandicus,cockatiel,1.0
+nymphicus hollandicus,siamese cat,0.0
+oak,pine,0.0
+octopus,tentacle,0.0
+olive,grape,0.0
+onion,tomato,0.0
+orange,crimson,0.0
+oriole,bird,0.0
+ornithorhynchus anatinus,duckbilled platypus,1.0
+ornithorhynchus anatinus,platypus,1.0
+ornithorhynchus anatinus,wombat,0.0
+ostrich,bird,0.0
+otter,mammal,0.0
+oven,stove,0.0
+owl,bird of minerva,1.0
+owl,bird of night,1.0
+owl,bird,0.0
+owl,night,0.0
+ox,mule,0.0
+paintbrush,pencil,0.0
+pajama,underwear,0.0
+pan troglodytes,chimp,1.0
+pan troglodytes,chimpanzee,1.0
+pan troglodytes,gorilla,0.0
+pan,grease,0.0
+pan,kitchen,0.0
+panga,kitchen knife,0.0
+panga,matchet,1.0
+panther,alligator,0.0
+pants,jacket,0.0
+parakeet,cat,0.0
+parakeet,parakeet,1.0
+parakeet,paraquet,1.0
+paraquet,cat,0.0
+paraquet,parakeet,1.0
+paraquet,parroquet,1.0
+parietal lobe,brain,0.0
+parietal lobe,neuron,0.0
+parietal lobe,parietal cortex,1.0
+parka,anorak,1.0
+parka,sweater,0.0
+parka,windbreaker,1.0
+parka,windcheater,1.0
+paroquet,cat,0.0
+paroquet,parakeet,1.0
+parroket,cat,0.0
+parroket,paraquet,1.0
+parroquet,cat,0.0
+parroquet,parakeet,1.0
+parsley,rosemary,0.0
+partridge,turtledove,0.0
+pea,cabbage,0.0
+peach,plum,0.0
+peacock,flamingo,0.0
+pear tree,pyrus communis,1.0
+pear,apple,0.0
+pear,apricot,0.0
+pearl,ruby,0.0
+peg,fish,0.0
+Peking,Beijing,1.0
+Peking,Peiping,1.0
+pelican,otter,0.0
+pen,notepad,0.0
+pen,pencil,0.0
+pencil,crayon,0.0
+pencil,eraser,0.0
+pendant,pendent,1.0
+pendant,sterling silver,0.0
+penguin,seahorse,0.0
+pepper,salt,0.0
+perch,redtail,0.0
+personal computer,mouse,0.0
+personal computer,pc,1.0
+personal digital assistant,calendar,0.0
+personal digital assistant,mail,0.0
+personal digital assistant,PDA,1.0
+personal digital assistant,smartphone,0.0
+phantasy,fantasy,1.0
+phantasy,novel,0.0
+pheasant,elk,0.0
+phoxinus phoxinus,fish,0.0
+pianist,cellist,0.0
+pianist,piano player,1.0
+piano,pianist,0.0
+piano,violin,0.0
+pickle,potato,0.0
+pie,cherry,0.0
+pie,slice,0.0
+pier,sea,0.0
+pig,cow,0.0
+pigeon,fox,0.0
+pillow,mattress,0.0
+pin,card,0.0
+pin,mat,0.0
+pinafore,hat,0.0
+pinafore,pinny,1.0
+pineapple,coconut,0.0
+pipe,manhole,0.0
+pismire,animal,0.0
+pismire,insect,0.0
+pistol,handgun,1.0
+pistol,rifle,0.0
+pistol,side arm,1.0
+plane,airplane,1.0
+plane,flight,0.0
+plane,travel,0.0
+plate,catcher,0.0
+platypus,wombat,0.0
+plier,scissor,0.0
+plowshare,ploughshare,1.0
+plowshare,slavery,0.0
+plug,electronics,0.0
+plum,pear,0.0
+pony,horse,0.0
+poodle,poodle dog,1.0
+poodle,terrier,0.0
+porcupine,rattlesnake,0.0
+posy,rose,0.0
+pot,smell,0.0
+potato,beet,0.0
+prof,professor,1.0
+prof,university,0.0
+projector,lcd,0.0
+prune,plant,0.0
+prunella modularis,dunnock,1.0
+prunella modularis,hedge sparrow,1.0
+prunella modularis,wren,0.0
+prunus persica nectarina,melon,0.0
+pry,pray,0.0
+pry,pry bar,1.0
+pumpkin,watermelon,0.0
+pyjama,halloween,0.0
+pyjama,pajama,1.0
+pyramid,king,0.0
+pyrus communis,apple,0.0
+pyrus communis,apricot,0.0
+python,reptile,0.0
+rabbit,pig,0.0
+raccoon,squirrel,0.0
+racquet,tennis,0.0
+radio,fm,0.0
+radish,cabbage,0.0
+raft,flurry,0.0
+railroad train,rail,0.0
+rainbow fish,lebistes reticulatus,1.0
+rainbow fish,piranha,0.0
+raisin,pear,0.0
+rake,fork,0.0
+rangifer tarandus,bear,0.0
+rangifer tarandus,reindeer,1.0
+raspberry,berry,0.0
+rat,cat,0.0
+rattle,toy,0.0
+rattlesnake,snake,0.0
+raven,phoebe,0.0
+rayon stocking,nylons,1.0
+rayon stocking,shoe,0.0
+razor,toothbrush,0.0
+redbreast,animal,0.0
+redbreast,old world robin,1.0
+redbreast,robin redbreast,1.0
+refrigerator,dishwasher,0.0
+refrigerator,icebox,1.0
+reindeer,elf,0.0
+revolver,semiautomatic pistol,0.0
+rhinoceros,hippo,0.0
+rhinoceros,rhino,1.0
+rhubarb,asparagus,0.0
+rice,flour,0.0
+rifle,9mm pistol,0.0
+ring,marriage,0.0
+river horse,hippopotamus,1.0
+river horse,horse,0.0
+robe,shawl,0.0
+robin redbreast,erithacus rubecola,1.0
+robin redbreast,squirrel,0.0
+robin,bird,0.0
+rock,music,0.0
+rocker,guitarist,0.0
+rooster,fowl,0.0
+rope,tow,0.0
+rug,carpeting,1.0
+rug,sofa,0.0
+ruler,dictator,0.0
+runabout,boat,0.0
+runabout,sail,0.0
+runabout,two-seater,1.0
+runt,half-pint,1.0
+sack,box,0.0
+saddle,bridle,0.0
+sailboat,motorboat,0.0
+sailboat,sailing boat,1.0
+salamander,frog,0.0
+salientian,batrachian,1.0
+salientian,rodent,0.0
+salientian,toad frog,1.0
+salientian,toad,1.0
+salmon,fish,0.0
+sandal,shoe,0.0
+sandpaper,emery paper,1.0
+sandpaper,letter,0.0
+sardine,lobster,0.0
+saucer,spoon,0.0
+saxophone,tuba,0.0
+saxophonist,saxist,1.0
+saxophonist,saxophone,0.0
+scarf,robe,0.0
+scissor hold,razor,0.0
+scissor hold,scissor grip,1.0
+scissors,knife,0.0
+screw,hammer,0.0
+screwdriver,knife,0.0
+screwdriver,screw,0.0
+sea wolf,Orcinus orca,1.0
+sea wolf,sea,0.0
+sea wolf,wolf,0.0
+seagull,pelican,0.0
+seal,navy,0.0
+seaweed,shellfish,0.0
+secretaire,escritoire,1.0
+secretaire,letter,0.0
+secretaire,Secretary of State,0.0
+shack,hovel,1.0
+shack,roof,0.0
+shack,tin roof,0.0
+shed,house,0.0
+shed,storage,0.0
+sheep,lamb,0.0
+shelf,drawer,0.0
+shell parakeet,budgereegah,1.0
+shell parakeet,budgerigar,1.0
+shell parakeet,budgerygah,1.0
+shell parakeet,budgie,1.0
+shell parakeet,cat,0.0
+shell parakeet,grass parakeet,1.0
+shell,enzyme secretion,0.0
+shield,protection,0.0
+ship,cargo,0.0
+shirt,jacket,0.0
+shoe,sock,0.0
+shooting iron,handgun,1.0
+shooting iron,pistol,1.0
+shooting iron,rifle,0.0
+shooting iron,side arm,1.0
+shotgun,scattergun,1.0
+shotgun,weapon,0.0
+shovel,snowblow,0.0
+shrimp,catfish,0.0
+silk stocking,rayon stocking,1.0
+silk stocking,shoe,0.0
+sink,plummet,0.0
+sissiness,effeminateness,1.0
+sissiness,princess,0.0
+sissiness,unmanliness,1.0
+sissiness,womanishness,1.0
+skateboard,bmx,0.0
+ski,ski resort,0.0
+skillet,frying pan,1.0
+skillet,frypan,1.0
+skillet,kitchen,0.0
+skirt,corset,0.0
+skunk,rabbit,0.0
+skyscraper,freedom tower,0.0
+sled,monoski,0.0
+sled,sleigh,1.0
+sleeping room,house,0.0
+sleigh,monoski,0.0
+slingshot,dart,0.0
+slipper,sandal,0.0
+snail,lizard,0.0
+sock,washrag,0.0
+sofa,duvet,0.0
+sousaphone,saxophone,0.0
+spade,ace,0.0
+sparrow,nightingale,0.0
+spatula,spoon,0.0
+spear,sword,0.0
+spider,snake,0.0
+spinach plant,prickly-seeded spinach,1.0
+spinach,lettuce,0.0
+spinacia oleracea,lettuce,0.0
+spinacia oleracea,prickly-seeded spinach,1.0
+spinacia oleracea,spinach plant,1.0
+spoon,dishtowel,0.0
+squeeze box,lead,0.0
+squeeze box,music,0.0
+squeeze box,song,0.0
+squid,whale,0.0
+squirrel,coyote,0.0
+squirrel,raccoon,1.0
+starling,bird,0.0
+starling,sparrow,0.0
+statesmanship,government,0.0
+statesmanship,state,0.0
+statesmanship,statecraft,1.0
+stereo system,stereophonic system,1.0
+stereo system,subwoofer,0.0
+stereo,subwoofer,0.0
+stick,nudge,0.0
+stock market,securities market,1.0
+stock market,share,0.0
+stock market,stock exchange,1.0
+stone,marble,0.0
+stool,sofa,0.0
+stork,flamingo,0.0
+stork,robin,0.0
+stove,grill,0.0
+strainer,bowl,0.0
+strawberry mark,face,0.0
+strawberry mark,hemangioma simplex,1.0
+strawberry,blueberry,0.0
+streetcar,trolley car,1.0
+streetcar,viaduct,0.0
+student lodging,student,0.0
+student lodging,youth hostel,1.0
+submarine sandwich,hamburger,0.0
+submarine,warship,0.0
+surfboard,surfer,0.0
+swan,heron,0.0
+sweater,anorak,0.0
+sweater,blazer,0.0
+sweater,windbreaker,0.0
+sweater,windcheater,0.0
+swimming costume,bathing suit,1.0
+swimming costume,lingerie,0.0
+swimming costume,swimsuit,1.0
+swimming costume,swimwear,1.0
+swimsuit,pool,0.0
+swimsuit,swimwear,1.0
+sword,plowshare,0.0
+table napkin,serviette,1.0
+table napkin,table,0.0
+table,tray,0.0
+tack,stance,0.0
+tangerine,peach,0.0
+tank,thinktank,0.0
+tap,water,0.0
+tape,audio,0.0
+taxi,bus,0.0
+telephone,landline,0.0
+temporal cortex,adrenal cortex,0.0
+temporal cortex,temporal lobe,1.0
+tent,circus,0.0
+thermometer,temperature,0.0
+thimble,pail,0.0
+think tank, think factory,1.0
+think tank,thought,0.0
+tie,deadlock,0.0
+tiger,rhino,0.0
+toad frog,anuran,1.0
+toad,anuran,1.0
+toad,rodent,0.0
+toad,toad frog,1.0
+toaster,coffeemaker,0.0
+toilet,woman,0.0
+tomahawk,spear,0.0
+tomato,cantaloupe,0.0
+tongs,pair of tongs,1.0
+tongs,spatula,0.0
+tortoise,snail,0.0
+toy,doll,0.0
+tractor,john deere,0.0
+trailer,car,0.0
+train,bus,0.0
+train,commuter,0.0
+train,rail,0.0
+train,railroad train,1.0
+train,railway,0.0
+train,walk,0.0
+tray,spoon,0.0
+tricycle,bicycle,0.0
+tricycle,trike,1.0
+tripod,camera,0.0
+trolley,streetcar,1.0
+trolley,trolley car,1.0
+trolley,viaduct,0.0
+trombone,trumpet,0.0
+trouser,denim,0.0
+trout,fishing,0.0
+truck,van,0.0
+trumpet,cornet,1.0
+trumpet,sax,0.0
+tub,bathroom,0.0
+tub,bubble,0.0
+tub,couch,0.0
+tuba,bass horn,1.0
+tuba,saxophone,0.0
+tuna,fish,0.0
+turdus migratorius,american robin,1.0
+turkey vulture,fox,0.0
+turkey,chicken,0.0
+turnip,pumpkin,0.0
+turtle,otter,0.0
+turtleneck,blazer,0.0
+turtleneck,polo-neck,1.0
+typewriter,remington,0.0
+u-boat,pigboat,1.0
+umbrella,aegis,0.0
+underbodice,blouse,0.0
+underbodice,camisole,1.0
+unicycle,skateboard,0.0
+unitard,cat suit,1.0
+unitard,tights,0.0
+unmanliness,effeminateness,1.0
+unmanliness,man,0.0
+urn,crematorium,0.0
+uterine cervix,breast tissue,0.0
+uterine cervix,cervix uteri,1.0
+uterine cervix,ovary,0.0
+uterine cervix,rectum,0.0 
+van,jeep,0.0
+veil,face,0.0
+vest,bandolier,0.0
+vine,grape,0.0
+viola,harpsichord,0.0
+violin,fiddle,1.0
+violin,violinist,0.0
+viscera,entrails,1.0
+viscera,flesh,0.0
+viscera,innards,1.0
+vulture,jackal,0.0
+wagon,tractor,0.0
+wall,fence,0.0
+walnut,rosewood,0.0
+walrus,polar bear,0.0
+wand,broom,0.0
+wasp,beetle,0.0
+water faucet,water tap,1.0
+water faucet,water,0.0
+whale,dolphin,0.0
+wheel,axle,0.0
+wheelbarrow,garden cart,1.0
+wheelbarrow,lawn cart,1.0
+wheelbarrow,shovel,0.0
+whip,salmon,0.0
+whistle,horn,0.0
+white turnip,brassica rapa,1.0
+white turnip,radish,0.0
+willow,birch,0.0
+wind cone,air-sleeve,1.0
+wind cone,wind,0.0
+wind sleeve,sleeve,0.0
+wind sleeve,wind cone,1.0
+windbreaker,wind,0.0
+windbreaker,windcheater,1.0
+womanishness,effeminateness,1.0
+womanishness,unmanliness,1.0
+womanishness,woman,0.0
+woodpecker,ovenbird,0.0
+woodpecker,peckerwood,1.0
+worm,troja,0.0
+wrecking bar,pry bar,1.0
+wrecking bar,pry,1.0
+wrecking bar,sabotage,0.0
+wrench,hammer,0.0
+writing table,escritoire,1.0
+writing table,letter,0.0
+writing table,pen,0.0
+writing table,secretaire,1.0 
+yacht,luxury,0.0
+yam,root,0.0
+zebra,giraffe,0.0
+zebra,leopard,0.0
+zucchini,asparagus,0.0
+zucchini,courgette,1.0
