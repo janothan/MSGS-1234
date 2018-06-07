@@ -10,4 +10,4 @@ Negative matches were chosen by selecting related nouns according to the word2ve
 
 All annotations were checked by a second reviewer and only added when consent existed concerning the word pair and its label. In total, there are 360 positive and 874 negative annotations. The chosen structure of the gold standard makes it possible that MSGS-1234 can also be viewed as a regular synonymy gold standard with very strong synonymy ties and can also be used in other contexts.
 
-Feel free to use this gold standard for your research and if you have any questions. 
+Feel free to use this gold standard for your research and contact me if you have any questions. 
